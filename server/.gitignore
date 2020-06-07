@@ -1,3 +1,8 @@
+# ignore folder node_modules
 node_modules/**/*
 
+# ignore arquivos do bd
 *.sqlite*
+
+# ignore images de market
+uploads/market/*
