@@ -44,13 +44,15 @@ const Detail = () => {
 
   function handleComposeMail(){
     MailComposer.composeAsync({
-      subject: 'Interesse na coleta de residuos',
+      subject: `ECOLETA to ${data.point.name}`,
+      body: `Olá ${data.point.name}, venho através do Ecoleta, tenho interesse sobre as coleta de residuos!`,
       recipients: [data.point.email]
     });
   }
 
   function handleWhatsapp(){
-    Linking.openURL(`whatsapp://send?phone=${data.point.whatsapp}&Olá, tenho interesse sobre coleta de residuos`)
+    const messageWapp = `Olá ${data.point.name}, venho através do Ecoleta, tenho interesse sobre as coleta de residuos!`
+    Linking.openURL(`whatsapp://send?phone=+55${data.point.whatsapp}&text=${messageWapp}`)
   }
 
   if(!data.point){

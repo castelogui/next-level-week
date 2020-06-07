@@ -143,7 +143,7 @@ const CreatePoint = () => {
 
     history.push('/');
 
-    alert('POnto de coleta criado')
+    alert('Ponto de coleta criado')
   }
 
   return (
