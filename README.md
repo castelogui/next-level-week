@@ -61,7 +61,7 @@ Para ter acesso ao layout [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk2
 
 Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com), o [Node.js][nodejs] + [Yarn][yarn] instalado em seu computador.
 
-Na linha de comando:
+Na linha de comando `como admnistrador`:
 
 ### Instalar API 
 
