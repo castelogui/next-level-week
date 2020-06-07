@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/castelo-guilherme/">
     <img alt="Made by castelogui" src="https://img.shields.io/badge/made%20by-castelogui-%2304D361">
   </a>
+  <img alt="@castelogui" src="https://avatars1.githubusercontent.com/u/48875867?v=4"  width="20px">
 
   <a href="https://github.com/castelogui/next-level-week/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/castelogui/next-level-week">
@@ -61,11 +62,11 @@ Para ter acesso ao layout [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk2
     <img alt="Layout" title="Layout" src=".github/layout.png" width="550px" />
 </h1>
 
-## :information_source: Como usar
+## :interrobang: Como usar
 
 Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com), o [Node.js][nodejs] + [Yarn][yarn] instalado em seu computador.
 
-Na linha de comando `como admnistrador`:
+Na linha de comando **como admnistrador**:
 
 ### Instalar API 
 
