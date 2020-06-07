@@ -105,7 +105,7 @@ $ yarn start
 # running on port 3000
 ```
 
-### Install Mobile
+### Instalar o Mobile
 
 ```bash
 # Clone esse repositório
