@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"> 
-	:construction: Ecoleta 1.0 🚀 In progress.. :construction:
+	:recycle: Ecoleta 1.0 🚀
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/castelogui/next-level-week?color=%2304D361">
@@ -22,6 +22,9 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/castelogui/next-level-week/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/castelogui/next-level-week?style=social">
+  </a>
+  <a href="https://github.com/castelogui/next-level-week/watchers">
+    <img alt="Watchers" src="https://img.shields.io/github/watchers/castelogui/next-level-week?style=social">
   </a>
 </p>
 
