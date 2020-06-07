@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="130px" />
+  <img alt="Ecoleta" title="#Ecoleta" src="./web/src/assets/logo.svg" width="350px" />
+  <img align="right" alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="100px" />
 </h1>
 
 <h4 align="center"> 
-	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
+	:construction: Ecoleta 1.0 🚀 In progress.. :construction:
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/castelogui/next-level-week?color=%2304D361">
