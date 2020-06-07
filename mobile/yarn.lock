@@ -3498,9 +3498,9 @@ log-symbols@^2.2.0:
   dependencies:
     chalk "^2.0.1"
 
-logkitty@^0.7.0:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.1.tgz#fe29209669d261539cbd6bb998a136fc92a1a05c"
+logkitty@^0.6.0:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.6.1.tgz#fe29209669d261539cbd6bb998a136fc92a1a05c"
   integrity sha512-cHuXN8qUZuzX/7kB6VyS7kB4xyD24e8gyHXIFNhIv+fjW3P+jEXNUhj0o/7qWJtv7UZpbnPgUqzu/AZQ8RAqxQ==
   dependencies:
     ansi-fragments "^0.2.1"
@@ -3575,7 +3575,7 @@ mem@^1.1.0:
   dependencies:
     mimic-fn "^1.0.0"
 
-mem@^4.0.0:
+mem@^4.0.0, mem@^4.3.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/mem/-/mem-4.3.0.tgz#461af497bc4ae09608cdb2e60eefb69bff744178"
   integrity sha512-qX2bG48pTqYRVmDB37rn/6PT7LcR8T7oAX3bf99u1Tt1nzxYfxkgqDwUwolPlXweM0XzBOBFzSx4kfp7KP1s/w==

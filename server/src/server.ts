@@ -2,6 +2,7 @@ import express from 'express';
 import path from 'path';
 import routes from './routes';
 import cors from 'cors';
+import { errors } from 'celebrate';
 
 const app = express();
 
@@ -9,9 +10,13 @@ app.use(cors()); // da para definir qual url vai ter acesso à nossa API
 app.use(express.json());
 app.use(routes);
 
-app.use('/uploads', express.static(
+app.use(
+  '/uploads', 
+  express.static(
   path.resolve(__dirname, '..', 'uploads')
 ));
+
+app.use(errors());
 
 app.listen(3333);
 
