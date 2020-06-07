@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/castelo-guilherme/">
     <img alt="Made by castelogui" src="https://img.shields.io/badge/made%20by-castelogui-%2304D361">
   </a>
-  <img alt="@castelogui" src="https://avatars1.githubusercontent.com/u/48875867?v=4"  width="20px">
 
   <a href="https://github.com/castelogui/next-level-week/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/castelogui/next-level-week">
@@ -29,12 +28,6 @@
   </a>
 </p>
 
-## :information_source: O que é a Next Level Week?
-
-Um evento online e totalmente gratuito! Uma semana prática com muito código, desafios, networking com o único objetivo de nos levar para o próximo nível como desenvolvedor.
-
-O método da rocketseat é baseado em 3 pilares: **Prática** diárias das tecnologias, **Foco** total no aprendizado e na construção da aplicação, interações em **Grupo** na comunidade da [Rocketseat](https://rocketseat.com.br/). 
-
 ## 💻 O Projeto
 
 Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. O objetivo é conectar pessoas com as empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
@@ -42,6 +35,12 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/capa.svg" width="350px" />
 </h1>
+
+## :information_source: O que é a Next Level Week?
+
+Um evento online e totalmente gratuito! Uma semana prática com muito código, desafios, networking com o único objetivo de nos levar para o próximo nível como desenvolvedor.
+
+O método da rocketseat é baseado em 3 pilares: **Prática** diárias das tecnologias, **Foco** total no aprendizado e na construção da aplicação, interações em **Grupo** na comunidade da [Rocketseat](https://rocketseat.com.br/). 
 
 
 ## :rocket: Tecnologias
