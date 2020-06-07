@@ -19,7 +19,6 @@
     "expo-font": "~8.1.0",
     "expo-location": "~8.1.0",
     "expo-mail-composer": "~8.1.0",
-    "logkitty": "^0.7.1",
     "mem": "^4.3.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
