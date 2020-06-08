@@ -7,9 +7,12 @@
   :recycle: Ecoleta 1.0 🚀
 </h4>
 <p align="center">
+	
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/castelogui/next-level-week?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/castelogui/next-level-week">
+  <a href="https://github.com/castelogui/next-level-week/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  </a>
 	
   <a href="https://www.linkedin.com/in/castelo-guilherme/">
     <img alt="Made by castelogui" src="https://img.shields.io/badge/made%20by-castelogui-%2304D361">
@@ -18,29 +21,39 @@
   <a href="https://github.com/castelogui/next-level-week/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/castelogui/next-level-week">
   </a>
-  
-  <a href="https://github.com/castelogui/next-level-week/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/castelogui/next-level-week">
+
 </p>
 
 <p align="center">
+  
   <a href="https://github.com/castelogui/next-level-week/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/castelogui/next-level-week?style=social">
   </a>
+  
   <a href="https://github.com/castelogui/next-level-week/watchers">
     <img alt="Watchers" src="https://img.shields.io/github/watchers/castelogui/next-level-week?style=social">
   </a>
+  
   <a href="https://github.com/castelogui/next-level-week/forks">
     <img alt="Forks" src="https://img.shields.io/github/forks/castelogui/next-level-week?style=social">
   </a>
+  
+  <a href="https://github.com/castelogui/next-level-week/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/castelogui/next-level-week?style=social">
+  </a>
+  
+  <a href="https://github.com/castelogui/next-level-week/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/castelogui/next-level-week?style=social">
+  </a>	
 </p>
 
 ## 💻 O Projeto 
 Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. O objetivo é conectar pessoas com as empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="350px" />
+    <img alt="Example" title="Example" src=".github/capa.svg" width="800px" />
 </h1>
 
 ## :information_source: O que é a Next Level Week? <img align="center" alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="50px" />
@@ -66,8 +79,19 @@ Este projeto foi desenvolvido comm as seguintes Tecnologias:
 Para ter acesso ao layout [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=).
 
 <h1 align="center">
-    <img alt="Layout" title="Layout" src=".github/layout.png" width="550px" />
+    <img alt="Layout" title="Layout" src=".github/layout.png" width="800px" />
 </h1>
+
+
+## 🤔 Como contribuir
+
+- Faça a *fork*;
+- Crie uma *branch* de sua feature: `git checkout -b minha-alteracao`;
+- Faça um *commit* de suas mudanças: `git commit -m 'mudanças: minha-alteracao'`;
+- De um *push* da sua branch: `git push origin minha-alteracao`.
+
+Depois de mesclar seu *pull request*, você pode deletar a sua *branch*.
+
 
 ## :interrobang: Como usar
 
@@ -140,15 +164,6 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 # Instale o expo em seu dispositivo móvel ou no emulador
 
 ```
-
-## 🤔 Como contribuir
-
-- Faça a *fork*;
-- Crie uma *branch* de sua feature: `git checkout -b minha-alteracao`;
-- Faça um *commit* de suas mudanças: `git commit -m 'mudanças: minha-alteração'`;
-- De um *push* da sua branch: `git push origin minha-alteração`.
-
-Depois de mesclar sua solicitação de *request*, você pode deletar a sua branch.
 
 ## :memo: License
 
