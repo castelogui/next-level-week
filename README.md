@@ -61,7 +61,7 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 Um evento online e totalmente gratuito! Uma semana prática com muito código, desafios, networking com o único objetivo de nos levar para o próximo nível como desenvolvedor.
 
-O método da rocketseat é baseado em 3 pilares: **Prática** diárias das tecnologias, **Foco** total no aprendizado e na construção da aplicação, interações em **Grupo** na comunidade da [Rocketseat](https://rocketseat.com.br/). 
+O método da rocketseat é baseado em 3 pilares: **Prática** diárias das tecnologias, **Foco** total no aprendizado e na construção da aplicação, interações em **Grupo** na comunidade da [Rocketseat][rocketseat]. 
 
 
 ## :rocket: Tecnologias
@@ -172,7 +172,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 Este projeto está sob a MIT License. Consulte [LICENSE](https://github.com/castelogui/next-level-week/blob/master/LICENSE) para mais detalhes.
 
 
-Feito com :heart: e todo o auxilio da [ Comunidade Rocketseat](https://rocketseat.com.br/comunidade) :wave: *by* [Guilherme Castelo!](https://www.linkedin.com/in/castelo-guilherme/)
+Feito com :heart: e todo o auxilio da [ Comunidade Rocketseat][rocketseat] :wave: *by* [Guilherme Castelo!](https://www.linkedin.com/in/castelo-guilherme/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
@@ -183,3 +183,4 @@ Feito com :heart: e todo o auxilio da [ Comunidade Rocketseat](https://rocketsea
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[rocketseat]: https://rocketseat.com.br/comunidade
