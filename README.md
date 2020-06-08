@@ -126,7 +126,7 @@ $ expo start
 
 # Expo will open, just scan the qrcode on terminal or expo page
 
-# Se houver problemas com as fontes, execute:
+# Se houver problemas com as fontes, execute como administrador:
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 # Instale o expo em seu dispositivo móvel ou no emulador
