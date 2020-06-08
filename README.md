@@ -95,7 +95,7 @@ Depois de mesclar seu *pull request*, você pode deletar a sua *branch*.
 
 ## :interrobang: Como usar
 
-Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com), o [Node.js][nodejs] + [Yarn][yarn] instalado em seu computador.
+Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com) e o [Node.js][nodejs] instalado em seu computador.
 
 ```bash
 # Clonar esse repositório
@@ -172,14 +172,13 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 Este projeto está sob a MIT License. Consulte [LICENSE](https://github.com/castelogui/next-level-week/blob/master/LICENSE) para mais detalhes.
 
 
-Feito com :hearth: todo o auxilio da comunidade [Rocketseat](https://discord.gg/JJsN5Mt) por Guilherme Castelo :wave: [Entre em contato!](https://www.linkedin.com/in/castelo-guilherme/)
+Feito com :heart: e todo o auxilio da [ Comunidade Rocketseat](https://rocketseat.com.br/comunidade) :wave: *by* [Guilherme Castelo!](https://www.linkedin.com/in/castelo-guilherme/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [expo]: https://expo.io/
 [reactjs]: https://reactjs.org
 [rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
 [vs]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
