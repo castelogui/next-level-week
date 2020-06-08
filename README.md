@@ -77,16 +77,16 @@ $ git clone https://github.com/castelogui/next-level-week
 $ cd next-level-week/server
 
 # Instale as dependencias necessárias
-$ yarn install
+$ npm install
 
 # Execute o comando para rodar as Migrates
-$ yarn knex:migrate
+$ npm run knex:migrate
 
 # Execute o comando para rodar os Seeds
-$ yarn knex:seed
+$ npm run knex:seed
 
 # Depois é preciso dar um start no server
-$ yarn dev
+$ npm run dev
 
 # running on port 3333
 ```
@@ -101,10 +101,10 @@ $ git clone https://github.com/castelogui/next-level-week
 $ cd next-level-week/web
 
 # Instale as dependências necessarias
-$ yarn install
+$ npm install
 
 # Rode
-$ yarn start
+$ npm start
 
 # running on port 3000
 ```
@@ -119,10 +119,10 @@ $ git clone https://github.com/castelogui/next-level-week
 $ cd next-level-week/mobile
 
 # Instale as dependências
-$ yarn install
+$ npm install
 
 # Rode
-$ yarn start
+$ expo start
 
 # Expo will open, just scan the qrcode on terminal or expo page
 
