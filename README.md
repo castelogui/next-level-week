@@ -97,14 +97,22 @@ Depois de mesclar seu *pull request*, você pode deletar a sua *branch*.
 
 Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com), o [Node.js][nodejs] + [Yarn][yarn] instalado em seu computador.
 
-Na linha de comando **como admnistrador**:
-
-### Instalar API 
-
 ```bash
 # Clonar esse repositório
 $ git clone https://github.com/castelogui/next-level-week
 
+# Navegue até o diretório
+$ cd next-level-week
+
+# Abrir no VSCode
+$ code .
+```
+
+Na linha de comando **como administrador**:
+
+### Instalar API 
+
+```bash
 # Navegue até o diretório
 $ cd next-level-week/server
 
@@ -126,9 +134,6 @@ $ npm run dev
 ### Instalar o Front-end
 
 ```bash
-# Clonar esse repositório
-$ git clone https://github.com/castelogui/next-level-week
-
 # Navegue até o diretório
 $ cd next-level-week/web
 
@@ -144,9 +149,6 @@ $ npm start
 ### Instalar o Mobile
 
 ```bash
-# Clone esse repositório
-$ git clone https://github.com/castelogui/next-level-week
-
 # Navegue até o diretório
 $ cd next-level-week/mobile
 
@@ -170,7 +172,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 Este projeto está sob a MIT License. Consulte [LICENSE](https://github.com/castelogui/next-level-week/blob/master/LICENSE) para mais detalhes.
 
 
-Feito com todo o auxilio da comunidade [Rocketseat](https://discord.gg/JJsN5Mt) por Guilherme Castelo :wave: [Entre em contato!](https://www.linkedin.com/in/castelo-guilherme/)
+Feito com :hearth: todo o auxilio da comunidade [Rocketseat](https://discord.gg/JJsN5Mt) por Guilherme Castelo :wave: [Entre em contato!](https://www.linkedin.com/in/castelo-guilherme/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
