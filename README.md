@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"> 
-	:recycle: Ecoleta 1.0 🚀
+  :recycle: Ecoleta 1.0 🚀
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/castelogui/next-level-week?color=%2304D361">
@@ -18,25 +18,33 @@
   <a href="https://github.com/castelogui/next-level-week/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/castelogui/next-level-week">
   </a>
+  
+  <a href="https://github.com/castelogui/next-level-week/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  </a>
+</p>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/castelogui/next-level-week/stargazers">
+<p align="center">
+  <a href="https://github.com/castelogui/next-level-week/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/castelogui/next-level-week?style=social">
   </a>
   <a href="https://github.com/castelogui/next-level-week/watchers">
     <img alt="Watchers" src="https://img.shields.io/github/watchers/castelogui/next-level-week?style=social">
   </a>
+  <a href="https://github.com/castelogui/next-level-week/forks">
+    <img alt="Forks" src="https://img.shields.io/github/forks/castelogui/next-level-week?style=social">
+  </a>
 </p>
 
-## 💻 O Projeto
-
+## 💻 O Projeto 
 Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. O objetivo é conectar pessoas com as empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
 
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/capa.svg" width="350px" />
 </h1>
 
-## :information_source: O que é a Next Level Week?
+## :information_source: O que é a Next Level Week? <img align="center" alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="50px" />
+
 
 Um evento online e totalmente gratuito! Uma semana prática com muito código, desafios, networking com o único objetivo de nos levar para o próximo nível como desenvolvedor.
 
