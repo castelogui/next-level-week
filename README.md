@@ -36,7 +36,7 @@
     <img alt="Watchers" src="https://img.shields.io/github/watchers/castelogui/next-level-week?style=social">
   </a>
   
-  <a href="https://github.com/castelogui/next-level-week/forks">
+  <a href="https://github.com/castelogui/next-level-week/network/members">
     <img alt="Forks" src="https://img.shields.io/github/forks/castelogui/next-level-week?style=social">
   </a>
   
