@@ -16,7 +16,7 @@
     "axios": "^0.21.2",
     "expo": "~48.0.19",
     "expo-constants": "~9.0.0",
-    "expo-font": "~8.1.1",
+    "expo-font": "~11.1.1",
     "expo-location": "~8.1.0",
     "expo-mail-composer": "~8.1.0",
     "mem": "^4.3.0",
