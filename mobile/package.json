@@ -14,9 +14,9 @@
     "@react-navigation/native": "^5.5.1",
     "@react-navigation/stack": "^5.4.2",
     "axios": "^0.21.2",
-    "expo": "~37.0.3",
+    "expo": "~48.0.19",
     "expo-constants": "~9.0.0",
-    "expo-font": "~8.1.0",
+    "expo-font": "~8.1.1",
     "expo-location": "~8.1.0",
     "expo-mail-composer": "~8.1.0",
     "mem": "^4.3.0",
@@ -30,7 +30,7 @@
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",
     "react-native-svg": "11.0.1",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.19.4"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
